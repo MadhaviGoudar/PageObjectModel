@@ -10,7 +10,8 @@ public class HomePage {
 	
 	public void  homePageEdit()
 	{
-		System.out.println("This is a new feature");
+		System.out.println("This is a updated feature");
+		System.out.println("This is a extra feature added");
 
 	}
 
