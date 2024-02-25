@@ -14,4 +14,10 @@ public class HomePage {
 
 	}
 
+	public void  homePageLoad()
+	{
+		System.out.println("This is a new feature from test branch");
+
+	}
+
 }
