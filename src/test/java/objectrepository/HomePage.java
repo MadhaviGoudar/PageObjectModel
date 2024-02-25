@@ -7,5 +7,11 @@ public class HomePage {
 
 	System.out.println("This commit is by another Automation Test Engineer 2");
 	}
+	
+	public void  homePageEdit()
+	{
+		System.out.println("This is a new feature");
+
+	}
 
 }
