@@ -1,4 +1,4 @@
-package objectrepository;
+/*package objectrepository;
 
 public class HomePage {
 	public void  homePageClic()
@@ -22,4 +22,4 @@ public class HomePage {
 
 	}
 
-}
+} */
